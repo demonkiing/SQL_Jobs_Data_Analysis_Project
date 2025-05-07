@@ -65,7 +65,7 @@ LIMIT 10
 
 - 📝 Job Title Variety: Roles range from Data Analyst to Director of Analytics, showcasing the wide spectrum of positions and specializations within data analytics.
 
-![Top Paying Jobs](assets\1_top_paying_jobs.png)
+![Top Paying Jobs](https://github.com/demonkiing/SQL_Jobs_Data_Analysis_Project/blob/main/assets/1_top_paying_jobs.png)
 
 📊 Here’s a bar graph showcasing the top 10 highest-paying data analyst roles in 2023! 💼💰; Generated the graph using PowerBI and Photoshop.
 
@@ -112,7 +112,7 @@ ORDER BY
 
 Other skills such as R, Snowflake, Pandas, and Excel show varying levels of demand across the top-paying roles.
 
-![Top in-demand Roles](assets\2_top_paying_job_skills.png)
+![Top in-demand Roles](https://github.com/demonkiing/SQL_Jobs_Data_Analysis_Project/blob/main/assets/2_top_paying_job_skills.png)
 
 📊 Here’s a bar graph visualizing the count of in-demand skills for the top 10 highest-paying data analyst jobs!; Generated the graph using PowerBI and Photoshop.
 
