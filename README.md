@@ -65,7 +65,7 @@ LIMIT 10
 
 - 📝 Job Title Variety: Roles range from Data Analyst to Director of Analytics, showcasing the wide spectrum of positions and specializations within data analytics.
 
-![Top Paying Roles](assets\1_top_paying_jobs.png)
+![Top Paying Jobs](assets\1_top_paying_jobs.png)
 
 📊 Here’s a bar graph showcasing the top 10 highest-paying data analyst roles in 2023! 💼💰; Generated the graph using PowerBI and Photoshop.
 
